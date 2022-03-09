@@ -1,0 +1,7 @@
+!/run/cache/
+!/run/logs/
+!/run/plugins/_run-paper_plugin_0.jar
+
+# Project exclude paths
+/.gradle/
+/build/
